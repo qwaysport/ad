@@ -1,5 +1,5 @@
-    const 
-      manifestUri = 'https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8',
+const 
+      manifestUri = 'https://tonton-live-ssai.akamaized.net/live/2dd2b7cd-1b34-4871-b669-57b5c9beca23/cmaf.isml/.m3u8',
     channel = '';
 
     const
@@ -72,7 +72,7 @@
       player.configure({
         drm: {
           clearKeys: {
-            '27828727f0a3a0b4fbc668378ccf8c10': '958e9cb7389e20948de5a542d2729ecf'
+            '3afe30ee4ea24a67fe5a2ef06e83db0b': '27a2f71d87bf5eb105af096fb6605d97'
           }
         }
       });
